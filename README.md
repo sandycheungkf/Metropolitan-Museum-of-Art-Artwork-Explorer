@@ -37,4 +37,3 @@ The website involves creating a User API using Node/Express, securing it with JW
    - Implement `login.js` and `register.js` for user authentication.
    - Integrate API calls for user registration, login, and CRUD operations for favorites and history.
 
-![image](https://github.com/sandycheungkf/web422/assets/134244969/e71834b5-cd06-4903-b6db-1ae1a68aa3b1)
